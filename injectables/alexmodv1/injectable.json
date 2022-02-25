@@ -1,0 +1,11 @@
+{
+	"title": "Alex's Mod V1",
+	"description": "A test injectable for the Blooket Utility",
+	"author": "Alexander Bolte",
+	"url": "https://github.com/boltalex389-2nd-account/blooket-utility-injectables/new/main/injectables/alexmodv1",
+	"scripts": [
+		"https://github.com/boltalex389-2nd-account/blooket-utility-injectables/new/main/injectables/alexmodv1/setup.js"
+	],
+	"setupScript": "https://github.com/boltalex389-2nd-account/blooket-utility-injectables/new/main/injectables/alexmodv1/setup.js",
+	"cleanupScript": "https://github.com/boltalex389-2nd-account/blooket-utility-injectables/new/main/injectables/alexmodv1/cleanup.js"
+}
