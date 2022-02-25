@@ -1,11 +1,11 @@
 if (!blooketUtility.prefs.test) {
   blooketUtility.prefs.test = {
-    title: "Test",
-    description: "A test pref group for the Blooket Utility",
+    title: "Alex's Mod Version 1",
+    description: "Test Pref Group",
     value: {
       testBool: {
-        title: "Test Boolean",
-        description: "Test boolean for the Blooket Utility",
+        title: "Enabled",
+        description: "Enable the mod",
         value: true,
       },
       testGroup: {
